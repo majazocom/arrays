@@ -64,3 +64,6 @@ let pokemons = [
 
 //Del 6:
 //Ta bort det första objektet i listan
+
+//Del 7:
+//Kom åt det sista objektet genom listmetoden '.length()'
